@@ -1,0 +1,12 @@
+override.tf
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+crash.log
+*.tfvars
+.tfsec.yml
+override.tf.json
+tflint.hcl
+Makefile
+terraform.auto.tfvars
